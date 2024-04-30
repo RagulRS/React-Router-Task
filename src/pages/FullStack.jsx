@@ -2,21 +2,21 @@ import { Link } from "react-router-dom";
 import styles from './FullStack.module.css';
 const FullStack = () => {
 
-    const data =[{
+    const data =[ {
         img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_.webp",
         link: "https://www.guvi.in/blog/how-long-would-it-take-to-be-a-full-stack-developer/",
         text: "How Long Would It Take to Be a Full Stack Developer?",
       },
       {
-          img:"https://www.guvi.in/blog/wp-content/uploads/2023/03/1.jpg",
+          img:"https://syspree.com/wp-content/uploads/2020/07/Web-Development-company-in-Mumbai-_What-is-a-CDN-and-the-Advantages-of-CDNs-for-website-hosting_-_-SySpree.jpg",
           link:"https://www.guvi.in/blog/web-development-roadmap-for-beginners/",
           text:"Best Web Development Roadmap for Beginners 2024",
       },{
-        img:"https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.png",
+        img:"https://www.keycdn.com/img/support/apache-cdn.png",
         link:"https://www.guvi.in/blog/how-does-apache-work/",
         text:"How does Apache work? A detailed introduction to Apache",
     }, {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+      img:"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210222183454/How-to-Become-a-Full-Stack-Web-Developer-in-2021.png",
       link:"https://www.guvi.in/blog/full-stack-developer-frameworks/",
       text:"Top 10 Full-Stack Developer Frameworks in 2024",
     },{

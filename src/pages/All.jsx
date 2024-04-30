@@ -5,21 +5,21 @@ import styles from './All.module.css'
 const All = () => {
   const data = [
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Fetch-Data-using-API-in-React.Js.png",
+      img: "https://ecodesoft.com/wp-content/uploads/2022/10/react.jpg",
       link: "https://www.guvi.in/blog/how-to-fetch-data-using-api-in-react/",
       text: "Use ReactJS to Fetch and Display Data from API - 5 Simple Steps",
     },{
-        img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Render-array-of-objects-in-ReactJs-1536x864.png",
+        img:"https://knackforge.com/wp-content/uploads/2022/11/Benefits-of-ReactJS.jpg",
         link:"https://www.guvi.in/blog/how-to-render-an-array-of-objects-in-react/",
         text:"20 Mechanical Engineering Project Ideas",
     },{
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/01/How-to-set-up.png",
+      img:"https://railsware.com/blog/wp-content/uploads/2019/07/Why-we-use-ReactJS-for-our-projects-Illustration.jpg",
       link:"https://www.guvi.in/blog/how-to-setup-react-router-v6/",
       text:"How to Setup React Router v6? | Tutorial 2024",
   }, 
   
   {
-    img:"https://www.guvi.in/blog/wp-content/uploads/2023/03/programming-lang-features-image.jpg",
+    img:"https://cdn.educba.com/academy/wp-content/uploads/2019/10/Best-Programming-Languages.png",
     link:"https://www.guvi.in/blog/easiest-programming-languages-to-hardest-ranked/",
     text:"10 Hardest and Easiest Programming Languages in 2024",
 },//fsd
@@ -29,15 +29,15 @@ const All = () => {
     text: "How Long Would It Take to Be a Full Stack Developer?",
   },
   {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/03/1.jpg",
+      img:"https://syspree.com/wp-content/uploads/2020/07/Web-Development-company-in-Mumbai-_What-is-a-CDN-and-the-Advantages-of-CDNs-for-website-hosting_-_-SySpree.jpg",
       link:"https://www.guvi.in/blog/web-development-roadmap-for-beginners/",
       text:"Best Web Development Roadmap for Beginners 2024",
   },{
-    img:"https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.png",
+    img:"https://www.keycdn.com/img/support/apache-cdn.png",
     link:"https://www.guvi.in/blog/how-does-apache-work/",
     text:"How does Apache work? A detailed introduction to Apache",
 }, {
-  img:"https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+  img:"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210222183454/How-to-Become-a-Full-Stack-Web-Developer-in-2021.png",
   link:"https://www.guvi.in/blog/full-stack-developer-frameworks/",
   text:"Top 10 Full-Stack Developer Frameworks in 2024",
 },{
@@ -46,44 +46,31 @@ const All = () => {
   text:"7 Best Full-Stack Development Online Courses [2024] ",
 },//cb
 {
-  img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1200x675.png",
+  img: "https://www.cdn.com/panel/page_images/2907_1234_cyber-security.jpg",
   link: "https://www.guvi.in/blog/difference-between-cybersecurity-and-ethical-hacking/",
   text: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
 },
 {
-  img: "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-1200x675.png",
+  img: "https://online.sbu.edu/sites/default/files/field/image/sbu-cybersecurity-job-outlook-feature.jpg",
   link: "https://www.guvi.in/blog/types-of-cybersecurity/",
   text: "8 Different Types of Cybersecurity and Threats Involved",
 },{
   img: "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
   link: "https://www.guvi.in/blog/what-is-hacking/",
   text: "What Is Hacking? Types of Hacking & More",
-},//CC
-{
-  img: "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Feature-image-Effective-Cloud-Computing-Career-Roadmap.webp",
-  link: "https://www.guvi.in/blog/cloud-computing-career-roadmap/",
-  text: "Effective Cloud Computing Career Roadmap 2024",
 },
+//DS
 {
-  img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-10-Cloud-Computing-Jobs-without-Coding-1-1200x571.png",
-  link: "https://www.guvi.in/blog/top-non-coding-jobs-in-cloud-computing/",
-  text: "Top 10 High Paying Cloud-Computing Jobs without Coding in 2024",
-},{
-  img: "https://www.guvi.in/blog/wp-content/uploads/2024/01/feature_image-7.webp",
-  link: "https://www.guvi.in/blog/cloud-computing-project-ideas/",
-  text: "Top 10 Cloud Computing Project Ideas [2024]",
-},//DS
-{
-  img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4-1200x676.png",
+  img: "https://www.naukri.com/campus/career-guidance/wp-content/uploads/2023/11/what-is-data-science.jpg",
   link: "https://www.guvi.in/blog/roles-and-responsibilities-of-a-data-scientist/",
   text: "Roles and Responsibilities of a Data Scientist",
 },
 {
-  img: "https://www.guvi.in/blog/wp-content/uploads/2023/08/How-Long-Would-It-Take-to-Learn-Data-Science-1200x628.png",
+  img: "https://insidebigdata.com/wp-content/uploads/2019/04/DataScience_shutterstock_1054542323.jpg",
   link: "https://www.guvi.in/blog/how-long-would-it-take-to-learn-data-science/",
   text: "How Long Would It Take to Learn Data Science?",
 },{
-  img: "https://www.guvi.in/blog/wp-content/uploads/2023/08/Everything-about-Data-Scientist-Salary-in-India-2023-1200x628.png",
+  img: "https://logicmojo.com/assets/dist/new_pages/images/data-scientist-salary.jpg",
   link: "https://www.guvi.in/blog/everything-about-data-scientist-salary-in-india/",
   text: "Everything about Data Scientist Salary in India | 2024",
 },

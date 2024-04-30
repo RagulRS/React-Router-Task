@@ -3,12 +3,12 @@ import styles from './CyberSecurity.module.css';
 
 const CyberSecurity = () => {
     const data = [{
-        img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1200x675.png",
+        img: "https://www.cdn.com/panel/page_images/2907_1234_cyber-security.jpg",
         link: "https://www.guvi.in/blog/difference-between-cybersecurity-and-ethical-hacking/",
         text: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       },
       {
-        img: "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-1200x675.png",
+        img: "https://online.sbu.edu/sites/default/files/field/image/sbu-cybersecurity-job-outlook-feature.jpg",
         link: "https://www.guvi.in/blog/types-of-cybersecurity/",
         text: "8 Different Types of Cybersecurity and Threats Involved",
       },{
